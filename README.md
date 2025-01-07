@@ -1,4 +1,4 @@
-#Amazon Clone
+# Amazon Clone 
 An Amazon e-commerce website clone developed using HTML, CSS, Python, and Django Framework. This project replicates the core features of an e-commerce platform, providing a simplified user interface and backend functionality.
 
 #🌟 Features
